@@ -1,0 +1,3 @@
+projects/providers/aws/*.tfstate
+projects/providers/aws/*.tfstate.backup
+modules/rds/credentials.tf
